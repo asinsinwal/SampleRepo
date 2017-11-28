@@ -8,3 +8,6 @@ bug fix report
 awesome buf fix ever
 
 ' final bug fix
+
+
+fine checked
